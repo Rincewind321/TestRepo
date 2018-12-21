@@ -9,7 +9,8 @@ namespace Schule_3
         {
             string sTest = "Dies ist ein komplexer Testtext mit komischen üs und ös und äs für ausführliche Tests";
 
-            List<char> sTestList = new List<char>() { Convert.ToChar(sTest)};
+            //Hier stand mal was
+            //Testkommentar
         }
     }
 }
